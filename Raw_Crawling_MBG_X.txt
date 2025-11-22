@@ -1,0 +1,1317 @@
+Raw Tweet Crawling Output
+=======================================
+
+Row 1
+Date       : 2025-11-18 23:56:53+00:00
+Tweet ID   : 1990932251513618439
+Text       : MAKANNN SAYANGG
+best menuu after mieee ayam yow
+MAKANNN 
+SUBAKKK 
+#mbg https://t.co/zxthgsatMV
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 2
+Date       : 2025-11-18 17:03:22+00:00
+Tweet ID   : 1990828187006201982
+Text       : #konteksnews Kepala BGN Ungkap Penggunaan Nitrin Tinggi Jadi Penyebab Utama Keracunan MBG
+
+#makanbergizigratis #mbg #badangizinasional #bgn #programpemerintah #dpr #dprri #kesehatananak #gizianak #stunting #giziseimbang #keamananpangan #beritaviral #beritaterkini #beritaindonesia https://t.co/pVgXElxvvY
+Language   : in
+Retweet Count: 0
+Reply Count: 1
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 3
+Date       : 2025-11-18 15:46:18+00:00
+Tweet ID   : 1990808795518546193
+Text       : Program MBG Dorong Pertumbuhan UMKM Tempe dan Permintaan Kedelai
+
+🔗Simak Selengkapnya : https://t.co/TeCmyylVhE      
+
+Baca artikel lainnya di : https://t.co/fH6UsGK7Aw 
+
+#News #Most1058 #MBG #UMKM
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 4
+Date       : 2025-11-18 15:39:20+00:00
+Tweet ID   : 1990807038474006730
+Text       : Harta Kekayaan Cucun Ahmad, Wakil Ketua DPR yang Pernah Sebut MBG Tak Perlu Ahli Gizi
+
+https://t.co/bVsqoUV2Ff
+#CucunAhmadSyamsurijal #MBG #MakanBergiziGratis #WakilKetuaDPRRI #bitvonline
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 5
+Date       : 2025-11-18 14:36:42+00:00
+Tweet ID   : 1990791277802394082
+Text       : Polemik MBG makin panas. Ahli gizi yang menyampaikan fakta teknis malah dipotong, dibentak, dan dibilang arogan.
+Setelah viral, Cucun klarifikasi bahwa maksudnya soal keterbatasan tenaga ahli.
+Tapi soal etika? Netizen sudah keburu ngamuk.
+#MBG #AhliGizi #BeritaViral  error https://t.co/r7xYazLJdg
+Language   : in
+Retweet Count: 2
+Reply Count: 1
+Like Count : 7
+Quote Count: 0
+---------------------------------------
+
+Row 6
+Date       : 2025-11-18 14:35:23+00:00
+Tweet ID   : 1990790947966447998
+Text       : Presiden @prabowo : Brazil memerlukan 11 tahun untuk mencapai 40juta, kita belum sampai 12 bulan udah 44 juta penerima #MBG . https://t.co/OfZWEfMqkP
+Language   : in
+Retweet Count: 4
+Reply Count: 0
+Like Count : 4
+Quote Count: 0
+---------------------------------------
+
+Row 7
+Date       : 2025-11-18 14:35:18+00:00
+Tweet ID   : 1990790925594079438
+Text       : Presiden @prabowo : Brazil memerlukan 11 tahun untuk mencapai 40juta, kita belum sampai 12 bulan udah 44 juta penerima #MBG . https://t.co/9aqrVvGT8T
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 8
+Date       : 2025-11-18 12:14:29+00:00
+Tweet ID   : 1990755488422826100
+Text       : MBG Dongkrak Permintaan Kedelai, UMKM Tempe Tumbuh Pesat 
+
+#News #Most1058 #MostUpdte #MBG  #Permintaan #Kedelai  #Tempe #TumbuhPesat https://t.co/4w6lmHfFFy
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 9
+Date       : 2025-11-18 11:39:09+00:00
+Tweet ID   : 1990746595206574462
+Text       : Lebih Mahal dari Dapur Umum, DPR Pertanyakan Anggaran Pembangunan SPPG Senilai Rp1,97 Triliun https://t.co/Y0Y3FVfh3o #BGN #DPR #mbg #SPPG
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 10
+Date       : 2025-11-18 11:14:43+00:00
+Tweet ID   : 1990740446977409459
+Text       : berkelanjutan, dan berdaya saing melalui pembangunan yang berfokus pada manusia dan gizi. 🌱🌏
+
+#SAC2025 #SDGsIndonesia #BappenasRI #BadanGiziNasional #MBG #SDGs #IndonesiaEmas2045
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 11
+Date       : 2025-11-18 10:44:06+00:00
+Tweet ID   : 1990732740543549471
+Text       : Viral ucapkan MBG tak butuh ahli gizi, Waket DPR Cucun Ahmad akhirnya meminta maaf dan melakukan klarifikasi.
+
+Baca Selengkapnya: https://t.co/BUkQCtRCrR
+
+#CucunAhmad #MBG #AhliGizi #DPR #BeritaTerbaru #FaktaHariIni #zonaberitsasingkat https://t.co/lxc7dVfUZ8
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 12
+Date       : 2025-11-18 10:31:44+00:00
+Tweet ID   : 1990729632090337547
+Text       : Berita2 bulan oktober yg cukup menarik untuk dibahas
+#KDM #MBG #Bahlil #pertamina https://t.co/AujP2kU8mL
+Language   : in
+Retweet Count: 0
+Reply Count: 1
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 13
+Date       : 2025-11-18 10:14:01+00:00
+Tweet ID   : 1990725173243199750
+Text       : Orang orang sekitar tiba tiba jadi SPPG
+#sppg #mbg
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 14
+Date       : 2025-11-18 10:12:32+00:00
+Tweet ID   : 1990724797819416648
+Text       : Achmad Ru’yat Dorong Kehadiran Ahli Gizi di Setiap SPPG untuk Sukseskan Program Makan Bergizi Gratis
+
+#achmadruyat
+#komisiixdprri
+#dprri
+#bgnri
+#mbg
+#sppg https://t.co/cfAXgv5D7w
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 15
+Date       : 2025-11-18 10:00:01+00:00
+Tweet ID   : 1990721646903099765
+Text       : Gelar Pertemuan di DPR, BGN-PERSAGI Sepakat Tambah Ahli Gizi untuk Program MBG
+
+#beritanasional #DPR #MBG #beritaterkini 
+
+https://t.co/u9yaoK3Hcu https://t.co/KLZBvRasIO
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 16
+Date       : 2025-11-18 09:45:45+00:00
+Tweet ID   : 1990718059259019346
+Text       : ini maksudnya apa ya? apakah tujuan MBG diberikan uang dengan embel2, "bagi hadiah kecil2an di ompeng" sorry??!! tapi ini MIRIS... MAKIN GILA!! DIJADIKAN KONTEN PULA!! HEYYY??? @.sppg_siaktualangperawang #MBG #SPPG #BGN https://t.co/EV5SlmYalF
+Language   : in
+Retweet Count: 2
+Reply Count: 0
+Like Count : 6
+Quote Count: 0
+---------------------------------------
+
+Row 17
+Date       : 2025-11-18 09:37:28+00:00
+Tweet ID   : 1990715973557768309
+Text       : #BGN Tanggapi Pernyataan Cucun Soal Tak Perlu Ahli Gizi dan Tegaskan Perlu Standar Kompetensi https://t.co/jKQmq397V4 #AhliGizi #CucunAhmadSyamsurijal #MBG #SPPG
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 18
+Date       : 2025-11-18 09:35:33+00:00
+Tweet ID   : 1990715490914693499
+Text       : 41 dapur MBG Milik Anak Dewan, Apa Salahnya yang Kaya Makin Kaya?
+..........
+Orde Baru MBG #bacaini #MBGJalanTerus
+#mbg
+
+ https://t.co/phkYsKkjAm
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 19
+Date       : 2025-11-18 09:30:00+00:00
+Tweet ID   : 1990714094178218273
+Text       : Ramai disorot! Pernyataan bahwa MBG tak perlu ahli gizi menuai protes, termasuk dari dr. Tan yang menegaskan pentingnya tenaga profesional.
+
+&gt;&gt; https://t.co/fC0jemWFxO
+
+#detikHealth #MBG https://t.co/1BrVfYHa7G
+Language   : in
+Retweet Count: 1
+Reply Count: 1
+Like Count : 7
+Quote Count: 0
+---------------------------------------
+
+Row 20
+Date       : 2025-11-18 09:23:19+00:00
+Tweet ID   : 1990712413491228879
+Text       : Pentingnya Ahli Gizi dalam Program MBG
+
+Baca selengkapnya: https://t.co/AWkQEhBpR9
+
+~RKD #MBG #AhliGizi #Penting
+Language   : in
+Retweet Count: 0
+Reply Count: 2
+Like Count : 2
+Quote Count: 0
+---------------------------------------
+
+Row 21
+Date       : 2025-11-18 08:57:38+00:00
+Tweet ID   : 1990705947585687712
+Text       : Cucun Minta Maaf soal Ucapan soal Ahli Gizi MBG, Waket DPR RI Akui Tak Bermaksud untuk Remehkan Profesi
+
+#dpr #cucunahmad #ahligizi #mbg 
+
+https://t.co/fzYFuHGxnt
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 22
+Date       : 2025-11-18 08:44:20+00:00
+Tweet ID   : 1990702603181961565
+Text       : Prabowo Tegaskan MBG Harus Bebas dari Penyimpangan: “Ini Uang Rakyat”
+
+https://t.co/wlbpFvf0RN
+
+#GiziAnakIndonesia #MBG #PrabowoSubianto #bitvonline
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 23
+Date       : 2025-11-18 08:35:40+00:00
+Tweet ID   : 1990700420424208710
+Text       : Presiden Prabowo: Penerima MBG Kini Tembus 44 Juta Orang
+
+🔗Simak Selengkapnya : https://t.co/D2JIewkfSA    
+
+Baca artikel lainnya di : https://t.co/fH6UsGK7Aw 
+
+#News #Most1058 #Prabowo #MBG
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 24
+Date       : 2025-11-18 07:56:00+00:00
+Tweet ID   : 1990690440698605650
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. 
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua https://t.co/Wz489aIdCY
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 25
+Date       : 2025-11-18 07:55:55+00:00
+Tweet ID   : 1990690416409334019
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. 
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua https://t.co/6AHSjMbRD6
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 26
+Date       : 2025-11-18 07:55:49+00:00
+Tweet ID   : 1990690392048841178
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. 
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua https://t.co/4HtPgJdTBl
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 27
+Date       : 2025-11-18 07:55:34+00:00
+Tweet ID   : 1990690330002534439
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. 
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua https://t.co/RYiPxCKZjj
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 28
+Date       : 2025-11-18 07:32:19+00:00
+Tweet ID   : 1990684478155731227
+Text       : Saya yakin semua pasti ingin yang terbaik untuk MBG dan manfaatnya jalan terus #MBG #MBGJalanTerus #GMMTV2026 https://t.co/xWhxHzV9y4
+Language   : in
+Retweet Count: 0
+Reply Count: 12
+Like Count : 9
+Quote Count: 0
+---------------------------------------
+
+Row 29
+Date       : 2025-11-18 07:07:24+00:00
+Tweet ID   : 1990678208061337831
+Text       : Program makan bergizi bukan hanya soal menyediakan makanan. Pada skala besar, program ini membutuhkan tata kelola yang kuat, tenaga yang kompeten, dan standar yang jelas agar layanan aman dan tepat sasaran.
+#ProgramGizi #AdministrasiKesehatan #PublicHealth #IJHA #MBG #AhliGizi https://t.co/7iuD4bGiYZ
+Language   : in
+Retweet Count: 0
+Reply Count: 1
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 30
+Date       : 2025-11-18 07:03:39+00:00
+Tweet ID   : 1990677265290834033
+Text       : @anggi_onitu Program Makan Bergizi Gratis menjamin anak Indonesia mendapatkan asupan yang sehat dan seimbang. 
+
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 31
+Date       : 2025-11-18 07:03:29+00:00
+Tweet ID   : 1990677222584361433
+Text       : @Varnando0oo0 Program Makan Bergizi Gratis menjamin anak Indonesia mendapatkan asupan yang sehat dan seimbang. 
+
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 32
+Date       : 2025-11-18 07:02:53+00:00
+Tweet ID   : 1990677071274905761
+Text       : Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi https://t.co/P9RiLr2puq
+Language   : in
+Retweet Count: 1
+Reply Count: 0
+Like Count : 1
+Quote Count: 1
+---------------------------------------
+
+Row 33
+Date       : 2025-11-18 07:02:40+00:00
+Tweet ID   : 1990677018833531359
+Text       : Program Makan Bergizi Gratis menjamin anak Indonesia mendapatkan asupan yang sehat dan seimbang. 
+
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua https://t.co/m06kHWZSzV
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 34
+Date       : 2025-11-18 06:35:40+00:00
+Tweet ID   : 1990670221854839214
+Text       : Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi https://t.co/qr4DoNASpE
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 1
+---------------------------------------
+
+Row 35
+Date       : 2025-11-18 06:31:35+00:00
+Tweet ID   : 1990669195848401348
+Text       : Program MBG tidak hanya meningkatkan kualitas gizi anak, ibu hamil, dan pekerja, tetapi juga menggerakkan ekonomi rakyat dan membangun sinergi kesejahteraan bangsa. #MakanBergiziGratis #GiziTumbuhEkonomiBergerak #KesejahteraanBangsa #MBG #DampakPositif #EkonomiRakyat #Gizi https://t.co/SUZSRIpEdD
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 36
+Date       : 2025-11-18 06:29:22+00:00
+Tweet ID   : 1990668635552297061
+Text       : MBG dan koperasi desa jadi penggerak ekonomi baru yang membuka banyak lapangan kerja.
+#MBG #KoperasiDesa #EkonomiKerakyatan https://t.co/JceWMMxydY
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 37
+Date       : 2025-11-18 06:25:45+00:00
+Tweet ID   : 1990667725447041169
+Text       : MBG dan koperasi desa jadi penggerak ekonomi baru yang membuka banyak lapangan kerja.
+#MBG #KoperasiDesa #EkonomiKerakyatan https://t.co/pC0C23WYP4
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 38
+Date       : 2025-11-18 06:23:00+00:00
+Tweet ID   : 1990667034141831321
+Text       : Wakil Ketua DPR RI Cucun Ahmad Syamsurijal menyampaikan permohonan maaf terkait ucapannya tentang Makan Bergizi Gratis (MBG) yang tidak memerlukan ahli gizi.
+#Cucun #MBG #AhliGizi #Viral #beritatiktok #fypage #pantaupolitik #fyp #norakplay #beritaviral #Peristiwa https://t.co/1bprLQrZAz
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 39
+Date       : 2025-11-18 06:07:23+00:00
+Tweet ID   : 1990663103072399473
+Text       : Pak Bhabin Monitoring Distribusi MBG Ke Penerima Manfaat Pastikan MBG Sampai Dengan Aman Ke Para siswa
+
+#mbg #MakanBergiziGratis #polri https://t.co/fFjjOMOVMH
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 40
+Date       : 2025-11-18 06:01:23+00:00
+Tweet ID   : 1990661592657035569
+Text       : PROGRAM GIZI ANAK PAPUA DIGANGGU OPM? TIDAK BISA! Letkol Lenis Kogoya, Stafsus Menhan, tegaskan statement Sebby Sambom itu "pemikiran sesat"! Tonton full! Beliau sendiri yang akan turun tangan jika Sebby terus sebar hoax!
+
+#StopHoaxOPM #MBG #KomitmenPemerintah #LenisKogoyaTegas https://t.co/71zERXIHwm
+Language   : in
+Retweet Count: 0
+Reply Count: 1
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 41
+Date       : 2025-11-18 05:52:57+00:00
+Tweet ID   : 1990659470314406355
+Text       : updatee mbg, wenakkk babgettt itu telor ny pakee bumbu apaa itu gtw, 100/10 
+#mbg https://t.co/KtbhjIFpWO
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 42
+Date       : 2025-11-18 05:26:00+00:00
+Tweet ID   : 1990652688535867603
+Text       : @rrandomlyyyy Memang #MBG arogan !
+Banyak keracunan di sekolah lepas tanggung jawab, menyalahkan guru yg tidak tahu menahu darimana makanan tersebut dimasak 
+Bapak ini yg dimaksud wakil DPR:
+https://t.co/W3tKTJ4nyN
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 43
+Date       : 2025-11-18 05:16:34+00:00
+Tweet ID   : 1990650316803788839
+Text       : Blunder Pernyataan Cucun soal "Tak Perlu Ahli Gizi" di Program MBG, Memicu Amarah Ahli
+
+Baca selengkapnya: https://t.co/LFgK6yhMWj
+
+~RKD #Cucun #MBG #AhliGizi
+Language   : in
+Retweet Count: 3
+Reply Count: 3
+Like Count : 6
+Quote Count: 1
+---------------------------------------
+
+Row 44
+Date       : 2025-11-18 05:10:31+00:00
+Tweet ID   : 1990648791486329017
+Text       : https://t.co/nn2bVNSIfP
+
+Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 1
+---------------------------------------
+
+Row 45
+Date       : 2025-11-18 05:02:17+00:00
+Tweet ID   : 1990646723585466461
+Text       : Keluhan pekerja dapur #MBG mencuat setelah IG BGN dipenuhi protes soal gaji terlambat. Dani, pengawas dapur #MBG di Jatim berstatus magang, bekerja lebih dari 20 jam/hari tanpa kontrak tertulis. Gaji yang dijanjikan tak kunjung cair, hingga harus narik ojol demi bertahan hidup. https://t.co/PVLTct7GdN https://t.co/xoySCqQntP
+Language   : in
+Retweet Count: 1
+Reply Count: 1
+Like Count : 7
+Quote Count: 0
+---------------------------------------
+
+Row 46
+Date       : 2025-11-18 04:45:24+00:00
+Tweet ID   : 1990642472662560808
+Text       : yang ga punya orang dalem pasti nangis dipojokan
+
+#makanbergizigratis #19jutalapangankerja #loker #jobfair #mbg #pengangguran #fyp #meme https://t.co/h91NJZuXjM
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 47
+Date       : 2025-11-18 04:40:06+00:00
+Tweet ID   : 1990641140501237895
+Text       : Produsen Tatakan Tungku Kompor MBG! SPPG Wajib Tahu!  https://t.co/R5J2Tv9rpL 
+
+#MBG #SPPG #TungkuKompor #TatakanTungkuMBG #ProdusenTatakanTungkuKomporMBG
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 48
+Date       : 2025-11-18 04:39:32+00:00
+Tweet ID   : 1990640995667751060
+Text       : Bhabinkamtibmas Polsek Batangtoru melakukan monitoring penyaluran Makanan Bergizi Gratis di SDS Faza Azkia Hutaraja untuk memastikan program berjalan tepat sasaran dan diterima dengan baik oleh siswa di Kecamatan Muara Batangtoru. #PolriPresisi #Batangtoru #TapanuliSelatan #MBG https://t.co/7r4NLathzu
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 49
+Date       : 2025-11-18 04:37:34+00:00
+Tweet ID   : 1990640500257550538
+Text       : Presiden Prabowo Sebut Keracunan MBG Seperti Sakit Perut Biasa, Tapi Minta Pengelola Tak Main-main
+
+#prabowo #mbg #sakitperut #beritaterkini 
+
+https://t.co/SbiCxoQUXv
+Language   : in
+Retweet Count: 0
+Reply Count: 5
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 50
+Date       : 2025-11-18 04:13:20+00:00
+Tweet ID   : 1990634401009635714
+Text       : Penerima Manfaat MBG Tembus 44 Juta, Prabowo Sebut Sebagai Prestasi Dunia
+
+#manfaat #mbg #prestasi #dunia 
+
+https://t.co/fdi40VDe9o
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 51
+Date       : 2025-11-18 04:13:15+00:00
+Tweet ID   : 1990634380830834853
+Text       : @CakKhum @prabowo @setkabgoid Ini kan #proyek #bisnis #MBG 🇮🇩
+Language   : in
+Retweet Count: 1
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 52
+Date       : 2025-11-18 04:07:58+00:00
+Tweet ID   : 1990633050343158039
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. Ini bukan sekadar soal makan, ini tentang menciptakan generasi yang tumbuh dengan kuat, cerdas, dan siap menghadapi masa depan. 
+#MBG #MakanBergiziGratis https://t.co/2jCr2HKVI6
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 53
+Date       : 2025-11-18 04:07:11+00:00
+Tweet ID   : 1990632853789630656
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. Ini bukan sekadar soal makan, ini tentang menciptakan generasi yang tumbuh dengan kuat, cerdas, dan siap menghadapi masa depan. 
+#MBG #MakanBergiziGratis https://t.co/zVEgofufpE
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 54
+Date       : 2025-11-18 04:06:47+00:00
+Tweet ID   : 1990632755303231621
+Text       : Bhabinkamtibmas Polsek Batangtoru melakukan monitoring penyaluran Makanan Bergizi Gratis di SDS Faza Azkia Hutaraja untuk memastikan program berjalan tepat sasaran dan diterima dengan baik oleh siswa di Kecamatan Muara Batangtoru. #PolriPresisi #Batangtoru #TapanuliSelatan #MBG https://t.co/xpJUjxW6Ix
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 55
+Date       : 2025-11-18 04:06:37+00:00
+Tweet ID   : 1990632712429060372
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. Ini bukan sekadar soal makan, ini tentang menciptakan generasi yang tumbuh dengan kuat, cerdas, dan siap menghadapi masa depan. 
+#MBG #MakanBergiziGratis https://t.co/3Ktbl6D7tf
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 56
+Date       : 2025-11-18 04:05:42+00:00
+Tweet ID   : 1990632480119140543
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. Ini bukan sekadar soal makan, ini tentang menciptakan generasi yang tumbuh dengan kuat, cerdas, dan siap menghadapi masa depan. 
+#MBG #MakanBergiziGratis https://t.co/5vAsTcZWQf
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 57
+Date       : 2025-11-18 04:05:16+00:00
+Tweet ID   : 1990632372153561457
+Text       : Bhabinkamtibmas Polsek Batangtoru melakukan monitoring penyaluran Makanan Bergizi Gratis di SDS Faza Azkia Hutaraja untuk memastikan program berjalan tepat sasaran dan diterima dengan baik oleh siswa di Kecamatan Muara Batangtoru. #PolriPresisi #Batangtoru #TapanuliSelatan #MBG https://t.co/Aw09QI4g11
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 58
+Date       : 2025-11-18 04:04:57+00:00
+Tweet ID   : 1990632292461785158
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. Ini bukan sekadar soal makan, ini tentang menciptakan generasi yang tumbuh dengan kuat, cerdas, dan siap menghadapi masa depan. 
+#MBG #MakanBergiziGratis https://t.co/4GFlIp3rlT
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 59
+Date       : 2025-11-18 04:04:46+00:00
+Tweet ID   : 1990632245183525071
+Text       : Bhabinkamtibmas Polsek Batangtoru melakukan monitoring penyaluran Makanan Bergizi Gratis di SDS Faza Azkia Hutaraja untuk memastikan program berjalan tepat sasaran dan diterima dengan baik oleh siswa di Kecamatan Muara Batangtoru. #PolriPresisi #Batangtoru #TapanuliSelatan #MBG https://t.co/ScnGyTxAQu
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 60
+Date       : 2025-11-18 04:03:57+00:00
+Tweet ID   : 1990632040564498610
+Text       : Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi https://t.co/NaTCY6gv4v
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 1
+---------------------------------------
+
+Row 61
+Date       : 2025-11-18 04:03:55+00:00
+Tweet ID   : 1990632032507212087
+Text       : Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi https://t.co/Zmnu0EjTnB
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 1
+---------------------------------------
+
+Row 62
+Date       : 2025-11-18 03:59:07+00:00
+Tweet ID   : 1990630823394226198
+Text       : Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi https://t.co/UNmTGUoINT
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 1
+---------------------------------------
+
+Row 63
+Date       : 2025-11-18 03:55:21+00:00
+Tweet ID   : 1990629877712892191
+Text       : Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi https://t.co/9paNh2nCGU
+Language   : in
+Retweet Count: 0
+Reply Count: 1
+Like Count : 0
+Quote Count: 1
+---------------------------------------
+
+Row 64
+Date       : 2025-11-18 03:54:18+00:00
+Tweet ID   : 1990629611135508541
+Text       : Kasus Oknum TNI Diduga Peras Sopir Angkutan di Gowa, ngaku polisi dan minta Rp 50 Juta ???? Ngerii nyooooo...
+.
+.
+.
+.
+#AhliGizi #DPR #KinerjaPemerintahRI #Senin #MBG #Fyp #Viral #BPN #pagiii #ApelPagi https://t.co/HfcFMHO2f3
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 1
+---------------------------------------
+
+Row 65
+Date       : 2025-11-18 03:39:20+00:00
+Tweet ID   : 1990625845896245583
+Text       : BGN Buka Call Center 127, Beroperasi 24 Jam Layani Aduan Masyarakat soal MBG
+
+Baca selengkapnya: https://t.co/WDhrevdsqa
+
+~RKD #BGN #MBG #CallCenter
+Language   : in
+Retweet Count: 1
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 66
+Date       : 2025-11-18 03:24:51+00:00
+Tweet ID   : 1990622201087995933
+Text       : Prabowo menegaskan MBG harus berjalan tanpa penyimpangan, karena memakai uang rakyat dan menargetkan 82,9 juta penerima. Meski distribusi cepat, ia minta pengawasan diperketat agar manfaatnya benar-benar sampai ke anak dan ibu hamil di seluruh Indonesia #mbg https://t.co/y1N8COKYAh
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 67
+Date       : 2025-11-18 03:24:46+00:00
+Tweet ID   : 1990622179294392491
+Text       : Pernyataan tegas ini menunjukkan komitmen kuat pemerintah untuk terus memperbaiki layanan MBG, memastikan keamanan pangan, dan menghadirkan manfaat nyata bagi masyarakat.”
+#MBG #PelayananPublik #KomitmenPerbaikan #KerjaUntukRakyat https://t.co/QPmV1snT27
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 68
+Date       : 2025-11-18 03:20:28+00:00
+Tweet ID   : 1990621098241896693
+Text       : Makan Bergizi Gratis tingkatkan kualitas gizi anak, gerakkan ekonomi rakyat, dan bangun sinergi kesejahteraan bangsa untuk Indonesia lebih baik! #MBG #IndonesiaSehat https://t.co/PtG3ypAt8r
+Language   : in
+Retweet Count: 0
+Reply Count: 1
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 69
+Date       : 2025-11-18 03:18:53+00:00
+Tweet ID   : 1990620701628510491
+Text       : Wakil Ketua DPR RI, Cucun Ahmad Syamsurijal, menyampaikan permohonan maaf usai menyatakan MBG tak memerlukan ahli gizi. #mbg #dpr #ahligizi #mpnindonesia https://t.co/2dAXNCwwlM
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 70
+Date       : 2025-11-18 03:18:16+00:00
+Tweet ID   : 1990620546892222684
+Text       : Dari makanan bergizi yang tersaji setiap hari, kita sedang membantu generasi muda tumbuh lebih sehat dan percaya diri #MBG https://t.co/v69COxCmgV
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 71
+Date       : 2025-11-18 03:09:20+00:00
+Tweet ID   : 1990618298535588026
+Text       : Kerja Nyata pemerintah dgn Program MBG bertujuan atasi stunting dan meningkatkan kualitas gizi anak Indonesia 🇮🇩
+MBG untuk anak sekolah balita ibu hamil dan menyusui 😍
+#LanjutkanMBG
+
+#mbg apel pagi ahli gizi https://t.co/WJvK0TgrRS
+Language   : in
+Retweet Count: 1
+Reply Count: 0
+Like Count : 2
+Quote Count: 1
+---------------------------------------
+
+Row 72
+Date       : 2025-11-18 02:50:10+00:00
+Tweet ID   : 1990613474863689927
+Text       : Program MBG tidak membutuhkan ahli gizi. Bahkan Cucun menyatakan bahwa lulusan SMA dapat menggantikan posisi tersebut dengan mengikuti pelatihan dan sertifikasi selama tiga bulan.
+
+Link: https://t.co/Te2Lvfe1Tl
+
+#mbg #polemik #SMA #programmbg #ahligizi #eramadanicom Senin Selasa https://t.co/2jWefMQDg1
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 1
+Quote Count: 0
+---------------------------------------
+
+Row 73
+Date       : 2025-11-18 02:43:00+00:00
+Tweet ID   : 1990611669719134332
+Text       : Menu mbg today wkwk
+#MBGJalanTerus #mbg https://t.co/m0XbWrXnol
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 74
+Date       : 2025-11-18 02:39:13+00:00
+Tweet ID   : 1990610718555844999
+Text       : Gerindra Semprot Cucun Usai Sebut Anak Muda Arogan &amp; Tak Perlu Ahli Gizi MBG: Bahaya Itu Ngomongnya!
+
+#gerindra #cucun #mbg #beritaterkini 
+
+https://t.co/TxbvvOEWgY
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 75
+Date       : 2025-11-18 02:35:18+00:00
+Tweet ID   : 1990609732181373113
+Text       : Parah,petani yg tidak tahu apa apa kena imbasnya,#BGN #MBG https://t.co/QyhZC3WD4w
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 76
+Date       : 2025-11-18 02:32:57+00:00
+Tweet ID   : 1990609141300355568
+Text       : Program MBG membantu memenuhi kebutuhan gizi harian siswa Kalteng #MBG #MBGKalteng #Kalteng https://t.co/PKDJ3w6D99
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 77
+Date       : 2025-11-18 02:32:53+00:00
+Tweet ID   : 1990609122157531411
+Text       : Program makan bergizi gratis siswa lebih fokus #MBG #MBGKalteng #Kalteng https://t.co/MGSWqb8fuG
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 78
+Date       : 2025-11-18 02:32:17+00:00
+Tweet ID   : 1990608974526533780
+Text       : @ARSIPAJA Program MBG Papua Tingkatkan Gizi Anak &amp; Sejahterakan Masyarakat 
+
+#MBG #MakanBergiziGratis #MBGPapuaBarat #PapuaBarat #Prabowo https://t.co/0gNThWkxeq
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 79
+Date       : 2025-11-18 02:32:11+00:00
+Tweet ID   : 1990608946827284859
+Text       : @txtdrimedia Program MBG Papua Tingkatkan Gizi Anak &amp; Sejahterakan Masyarakat 
+
+#MBG #MakanBergiziGratis #MBGPapuaBarat #PapuaBarat #Prabowo https://t.co/TIarSroxBV
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 80
+Date       : 2025-11-18 02:31:10+00:00
+Tweet ID   : 1990608691062874458
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. 
+#MBG #MakanBergiziGratis https://t.co/qhori9KKFj
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 81
+Date       : 2025-11-18 02:31:01+00:00
+Tweet ID   : 1990608652982800559
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. 
+#MBG #MakanBergiziGratis https://t.co/al5m4xN60T
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 82
+Date       : 2025-11-18 02:30:52+00:00
+Tweet ID   : 1990608618073567617
+Text       : Melalui Program Makan Bergizi Gratis, setiap anak Indonesia dijamin mendapatkan asupan yang sehat dan seimbang setiap harinya. 
+#MBG #MakanBergiziGratis https://t.co/cq0b1GrXul
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 83
+Date       : 2025-11-18 02:26:36+00:00
+Tweet ID   : 1990607541123101093
+Text       : Bangga bersama #MBG https://t.co/hjCefHSoiw
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 84
+Date       : 2025-11-18 02:23:09+00:00
+Tweet ID   : 1990606675108352379
+Text       : Fokus pada kesehatan dan masa depan bangsa. Bapak Prabowo Subianto berkomitmen penuh terhadap program MBG (Makan Bergizi Gratis). #PrabowoSubianto #MBG https://t.co/KgzimLwFMD
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 85
+Date       : 2025-11-18 02:14:19+00:00
+Tweet ID   : 1990604452592816152
+Text       : Viral Cucun Ahmad Sebut MBG Tak Perlu Ahli Gizi, Kronologi hingga Permintaan Maaf Wakil Ketua DPR
+
+https://t.co/tPISjjbTeo #viral #cucun #dpr #mbg #ahligizi #makanbergizigratis #news
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 86
+Date       : 2025-11-18 02:01:19+00:00
+Tweet ID   : 1990601180033266054
+Text       : Program MBG bukan sekadar makan gratis, tetapi investasi gizi untuk masa depan bangsa. Dari dapur inklusif hingga zonasi Solo yang konsisten, MBG hadir untuk membentuk generasi sehat, cerdas, dan berdaya saing. 🍽️
+#MBG #MakanBergiziGratis #AnakSehatBangsaKuat #GiziUntukSemua https://t.co/vMcg0R9XkC
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 87
+Date       : 2025-11-18 01:59:37+00:00
+Tweet ID   : 1990600749953515895
+Text       : Menjadi wakil rakyat itu OTAKNYA HARUS BERGIZI....
+
+#MBGJalanTerus #makanbergizi #mbg
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 88
+Date       : 2025-11-18 01:58:27+00:00
+Tweet ID   : 1990600457430184167
+Text       : Investasi untuk masa depan dimulai dari generasi yang sehat! Program makan bergizi gratis untuk anak-anak Indonesia adalah langkah nyata untuk memastikan mereka tumbuh dengan baik dan siap menghadapi tantangan.
+
+#ProgramMBG #MakanBergiziGratis #MBG #IndonesiaSehat https://t.co/kpR1S1Et5g
+Language   : in
+Retweet Count: 2
+Reply Count: 1
+Like Count : 4
+Quote Count: 0
+---------------------------------------
+
+Row 89
+Date       : 2025-11-18 01:58:04+00:00
+Tweet ID   : 1990600362915737623
+Text       : Menu MBG di SD adikku pagi ini 18 Nov 2025 8.30
+
+#MBG 
+#makanpagi 
+#sederhana 
+#BGN https://t.co/kiqAUjFxv9
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 90
+Date       : 2025-11-18 01:56:25+00:00
+Tweet ID   : 1990599946891112700
+Text       : Investasi untuk masa depan dimulai dari generasi yang sehat! Program makan bergizi gratis untuk anak-anak Indonesia adalah langkah nyata untuk memastikan mereka tumbuh dengan baik dan siap menghadapi tantangan.
+
+#ProgramMBG #MakanBergiziGratis #MBG #IndonesiaSehat https://t.co/t7gx2ZYFBB
+Language   : in
+Retweet Count: 2
+Reply Count: 1
+Like Count : 4
+Quote Count: 0
+---------------------------------------
+
+Row 91
+Date       : 2025-11-18 01:45:17+00:00
+Tweet ID   : 1990597143497937400
+Text       : Investasi untuk masa depan dimulai dari generasi yang sehat! Program makan bergizi gratis untuk anak-anak Indonesia adalah langkah nyata untuk memastikan mereka tumbuh dengan baik dan siap menghadapi tantangan.
+
+#ProgramMBG #MakanBergiziGratis #MBG #IndonesiaSehat https://t.co/Io8CPlDYPN
+Language   : in
+Retweet Count: 2
+Reply Count: 2
+Like Count : 3
+Quote Count: 0
+---------------------------------------
+
+Row 92
+Date       : 2025-11-18 01:44:42+00:00
+Tweet ID   : 1990596998739996818
+Text       : Investasi untuk masa depan dimulai dari generasi yang sehat! Program makan bergizi gratis untuk anak-anak Indonesia adalah langkah nyata untuk memastikan mereka tumbuh dengan baik dan siap menghadapi tantangan.
+
+#ProgramMBG #MakanBergiziGratis #MBG #IndonesiaSehat https://t.co/RpE5T2sWtV
+Language   : in
+Retweet Count: 2
+Reply Count: 2
+Like Count : 4
+Quote Count: 0
+---------------------------------------
+
+Row 93
+Date       : 2025-11-18 01:33:36+00:00
+Tweet ID   : 1990594206063300985
+Text       : #konteksnews - Di dua SD negeri di Tambora, Jakarta Barat, ratusan siswa kini bisa menikmati makan gratis setiap hari bukan dari program pemerintah, melainkan dari inisiatif bertajuk Makan Bahagia Gratis (MBG). (ag)
+
+#MBG #MakanBahagiaGratis #JusufHamka #Tambora #JakartaBarat https://t.co/oEYhtrqUKp
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 94
+Date       : 2025-11-18 01:20:19+00:00
+Tweet ID   : 1990590860149600507
+Text       : Kepala Badan Gizi Nasional (BGN) Dadan Hindayana menyebut satu yayasan mitra Makan Bergizi Gratis (MBG) maksimal mengelola 10 dapur atau Satuan Pelayanan Pemenuhan Gizi (SPPG) di provinsi yang sama.
+
+Baca di: https://t.co/uOUZeTa9MP.
+
+| #MakanBergiziGratis #MBG https://t.co/z78CNGSTz1
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 3
+Quote Count: 0
+---------------------------------------
+
+Row 95
+Date       : 2025-11-18 01:19:12+00:00
+Tweet ID   : 1990590582063051029
+Text       : Wabup Deli Serdang Resmikan Dapur SPPG di Ujung Rambe, Dorong Gizi Anak dan Ekonomi Lokal 
+https://t.co/FtB8XNbdFG
+#BangunPurba #DeliSerdang #MBG #SPPG #gizi #kesehatan #selasa #bitvonline
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 96
+Date       : 2025-11-18 01:18:58+00:00
+Tweet ID   : 1990590520780075123
+Text       : Wakil Ketua DPR Cucun Sebut Anak Muda Arogan hingga Klaim Tak Perlu Ahli Gizi di Program MBG
+
+#cucun #mbg #ahligizi #beritaterkini 
+
+https://t.co/HhUJAa6f3P
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
+Row 97
+Date       : 2025-11-18 01:12:34+00:00
+Tweet ID   : 1990588912621027362
+Text       : Makan Bergizi Gratis bukan hanya memenuhi gizi anak, tetapi juga menggerakkan ekonomi rakyat melalui penyerapan produk lokal, membangun ekosistem yang inklusif, dan menghadirkan manfaat berkelanjutan bagi kesejahteraan masyarakat.
+
+#ProgramMBG #MakanBergiziGratis #MBG https://t.co/NIGEumsYj1
+Language   : in
+Retweet Count: 3
+Reply Count: 3
+Like Count : 4
+Quote Count: 0
+---------------------------------------
+
+Row 98
+Date       : 2025-11-18 01:12:01+00:00
+Tweet ID   : 1990588772111823030
+Text       : Makan Bergizi Gratis bukan hanya memenuhi gizi anak, tetapi juga menggerakkan ekonomi rakyat melalui penyerapan produk lokal, membangun ekosistem yang inklusif, dan menghadirkan manfaat berkelanjutan bagi kesejahteraan masyarakat.
+
+#ProgramMBG #MakanBergiziGratis #MBG https://t.co/kxDtyc5kff
+Language   : in
+Retweet Count: 3
+Reply Count: 3
+Like Count : 4
+Quote Count: 0
+---------------------------------------
+
+Row 99
+Date       : 2025-11-18 01:11:42+00:00
+Tweet ID   : 1990588693128884549
+Text       : Makan Bergizi Gratis bukan hanya memenuhi gizi anak, tetapi juga menggerakkan ekonomi rakyat melalui penyerapan produk lokal, membangun ekosistem yang inklusif, dan menghadirkan manfaat berkelanjutan bagi kesejahteraan masyarakat.
+
+#ProgramMBG #MakanBergiziGratis #MBG https://t.co/cExDL1Np1r
+Language   : in
+Retweet Count: 2
+Reply Count: 2
+Like Count : 4
+Quote Count: 0
+---------------------------------------
+
+Row 100
+Date       : 2025-11-18 01:01:59+00:00
+Tweet ID   : 1990586249057612211
+Text       : #konteksnews - Wakil Ketua DPR Cucun Ahmad Syamsurijal akhirnya menyampaikan permintaan maaf setelah pernyataannya soal “tidak perlu ahli gizi” dalam program Makan Bergizi Gratis (MBG) viral dan menuai kritik luas. (ag) 
+
+#CucunAhmadSyamsurijal #AhliGizi #MBG https://t.co/GUZtHWODSz
+Language   : in
+Retweet Count: 0
+Reply Count: 0
+Like Count : 0
+Quote Count: 0
+---------------------------------------
+
